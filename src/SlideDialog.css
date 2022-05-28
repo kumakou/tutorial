@@ -1,0 +1,19 @@
+.modalCard {
+    min-width: 600px;
+    max-width: 600px;
+}
+
+.modal {
+    display: grid;
+    place-items: center;
+}
+
+.CardContent {
+    height:80px;
+    /* min-width: 600px;
+    max-width: 600px; */
+}
+
+.Button {
+    margin: auto;
+}
